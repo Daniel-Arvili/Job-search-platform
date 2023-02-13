@@ -37,7 +37,7 @@ This project is a job searching platform where users can search and apply for jo
 - jsPdf
 ## Team 
 - Daniel Arvili
-- Aviv Hagah
+- Aviv Hagag
 - Daniel Yakobov
 - Tomer Elimelech
 
